@@ -1,2 +1,2 @@
 # RealEstate-Value-Estimation
-This is a simpli
+This is a simplified
