@@ -4,4 +4,4 @@ This is a simplified and reliable Machine Learning model project which can be ut
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution
+- [Contribution](#co
