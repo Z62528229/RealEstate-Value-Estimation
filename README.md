@@ -11,4 +11,5 @@ This is a simplified and reliable Machine Learning model project which can be ut
 
 ### Usage
 
-### Contribut
+### Contribution
+P
