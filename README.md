@@ -12,4 +12,4 @@ This is a simplified and reliable Machine Learning model project which can be ut
 ### Usage
 
 ### Contribution
-Pull requests are welcomed. For major changes, please open an issue first to discuss what yo
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would 
