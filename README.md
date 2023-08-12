@@ -14,4 +14,4 @@ This is a simplified and reliable Machine Learning model project which can be ut
 ### Contribution
 Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.
 
-Useful for the following: New contributors
+Useful for the following: New contributors, People
