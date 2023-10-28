@@ -17,4 +17,6 @@ Pull requests are welcomed. For major changes, please open an issue first to dis
 Useful for the following: New contributors, People who want to learn more about simple ML models and RESTful APIs.
 
 ### License
-[MIT](https://choosealicense.com/licenses/mi
+[MIT](https://choosealicense.com/licenses/mit/)
+
+(
