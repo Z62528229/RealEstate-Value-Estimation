@@ -19,4 +19,4 @@ Useful for the following: New contributors, People who want to learn more about 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-(
+(c) Z6252
